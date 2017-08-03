@@ -1,2 +1,2 @@
-# datasciencefromscratch
-Joel Grus book listings
+# examples of data science practices
+
